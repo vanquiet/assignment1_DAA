@@ -1,4 +1,4 @@
-# Report Assignment 1
+# Report
 
 ## 1. Complexity
 
